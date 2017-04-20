@@ -1,17 +1,25 @@
 h1{
   font-size: 60px;
-  font-weight: bolder;
-  text-align: center;
-  background-color: #c65d1f;
-
+  font-weight: 600;
+  text-align: left;
+  font-style: italic;
+  font-family: "Herculanum"fantasy;
 }
 p.intro{
 font-style: italic;
-font-size: 30px;
+font-size: 20px;
+font-weight: bolder;
 
 }
 
 p.intro2{
-  color: #00f000;
+  color: violet;
+}
+.flashy{
+  color: red;
+}
+
+body{
+background-color: #cbedea;
 
 }
